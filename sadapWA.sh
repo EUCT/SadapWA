@@ -20,7 +20,7 @@ echo $blue "|| $green  1. Sadap WhatsApp No Indosat   $blue ||"
 echo $blue "|| $green  2. Sadap WhatsApp No Telkomsel $blue ||"
 echo $blue "|| $green  3. Sadap WhatsApp No XL / Axis $blue ||"
 echo $blue "|| $green  4. Sadap WhatsApp No 3(Three)  $blue ||"
-echo $blue "|| $green  4. Exit Sadap WhatsApp         $blue ||"
+echo $blue "|| $green  5. Exit Sadap WhatsApp         $blue ||"
 echo $blue "================================================="
 echo $blue"╭──[Masukkan Pilihan Anda]>"
 read -p"╰───────root@Mr CR45H=•>" Mr CR45H;
