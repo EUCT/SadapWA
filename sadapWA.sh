@@ -1,7 +1,3 @@
-#!/usr/bin/bash
-#Tools SadapWhatsApp
-#Sadap WhatsApp
-#By Mr CR45H
 clear
 blue='\033[34;1m'
 green='\033[32;1m'
@@ -20,11 +16,11 @@ echo  $blue "<|======================================|>"
 sleep 1
 echo  $red "============== $red MENU $green ================="
 echo $blue "================================================="
-echo $blue "|| $green 1. Sadap WhatsApp No Indosat   $blue ||"
-echo $blue "|| $green 2. Sadap WhatsApp No Telkomsel $blue ||"
-echo $blue "|| $green 3. Sadap WhatsApp No XL / Axis $blue ||"
-echo $blue "|| $green 4. Sadap WhatsApp No 3(Three)  $blue ||"
-echo $blue "|| $green 0. Exit Sadap WhatsApp         $blue ||"
+echo $blue "|| $green  1. Sadap WhatsApp No Indosat   $blue ||"
+echo $blue "|| $green  2. Sadap WhatsApp No Telkomsel $blue ||"
+echo $blue "|| $green  3. Sadap WhatsApp No XL / Axis $blue ||"
+echo $blue "|| $green  4. Sadap WhatsApp No 3(Three)  $blue ||"
+echo $blue "|| $green  4. Exit Sadap WhatsApp         $blue ||"
 echo $blue "================================================="
 echo $blue"╭──[Masukkan Pilihan Anda]>"
 read -p"╰───────root@Mr CR45H=•>" Mr CR45H;
